@@ -644,6 +644,9 @@ h3.my-profession{
     padding: 0 50px;
 }
 @media (max-width:1200px) {
+    .section .container{
+        padding-top: 70px;
+    }
     .aside{
         left: -270px;
     }
