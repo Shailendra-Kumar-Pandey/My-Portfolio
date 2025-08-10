@@ -1,7 +1,7 @@
 //typing animation
 
 var typed = new Typed(".typing" ,{
-    strings: ["","Frontend Developer", "Web Developer", "Graphic Designer", "Web Designer"],
+    strings: ["","Software Engineer", "Full Stack Web Developer", ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
